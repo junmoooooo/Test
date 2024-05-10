@@ -1,3 +1,4 @@
 # Git Test
 ## junmo
-- hot fixed
+- Conflics fixed
+
